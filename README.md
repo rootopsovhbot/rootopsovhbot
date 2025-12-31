@@ -44,7 +44,7 @@ If you are reviewing activity from this account:
 
 ## Contact
 
-For questions regarding this account or its activity, please contact the **RootOPSOVH organization maintainers**.
+For questions regarding this account or its activity, or to request related services, please visit [rootops.ovh/hire](https://rootops.ovh/hire). All interactions and communications are handled through this channel.
 
 ---
 
