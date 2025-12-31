@@ -48,4 +48,14 @@ For questions regarding this account or its activity, or to request related serv
 
 ---
 
+<div align="center">
+  <a href="https://www.ovhcloud.com/en/security/anti-ddos/" target="_blank" rel="noopener" title="OVH AntiDDoS">
+    <img src="https://ca.ovh.com/auth/sso/static/images/logo-ovhcloud-2024.svg" alt="ROOT OPS .OVH Logo" width="150"/>
+  </a>
+  <div style="font-size:12px; color:#666;">By VAC Protection</div>
+</div>
+
+
+---
+
 _Last updated: 2025-12-31_
