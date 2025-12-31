@@ -53,7 +53,7 @@ For questions regarding this account or its activity, or to request related serv
     <img src="https://ca.ovh.com/auth/sso/static/images/logo-ovhcloud-2024.svg" alt="ROOT OPS .OVH Logo" width="150"/>
   </a>
   <div style="font-size:12px; color:#666;">By VAC Protection</div>
-  **This is NOT an official OVHcloud github account. Independent project hosted on OVH infrastructure, not affiliated with OVHcloud SAS.**
+  <div style="font-size:6px; color:#666;">This is NOT an official OVHcloud github account. Independent project hosted on OVH infrastructure, not affiliated with OVHcloud SAS.</div>
 </div>
 
 
